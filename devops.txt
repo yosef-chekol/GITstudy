@@ -1,1 +1,2 @@
 Git is part of my DevOps journey 
+Testing Jenkins automatic build
